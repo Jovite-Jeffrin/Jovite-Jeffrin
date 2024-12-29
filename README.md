@@ -27,7 +27,7 @@ Conducted a market analysis of the electric vehicle and hybrid segment in India,
 - **Technologies:** SQL, Power Query and Power BI
 - **Key Takeaway:** Provided data-driven insights that influenced 3 key strategic initiatives for market expansion.
 
-### [Project 2: Retail Data Analysis]([https://github.com/yourusername/customer-segmentation](https://github.com/Jovite-Jeffrin/Projects/tree/48a37e2a124e578487ef7f7de32cda2093624ef7/Retail%20Data%20Analysis))
+### [Project 2: Retail Data Analysis]((https://github.com/Jovite-Jeffrin/Projects/tree/48a37e2a124e578487ef7f7de32cda2093624ef7/Retail%20Data%20Analysis))
 Performed comprehensive analysis of 10,000+ household-level transactions using SQL and built data pipelines integrating Snowflake and AWS S3 to automate data accessibility and enhance reliability.
 - **Technologies:** SQL, Python, Power BI, AWS S3 and Snowflake.
 - **Key Takeaway:** Streamlined communication of insights with 3+ interactive dashboards, improving decision-making across departments.
