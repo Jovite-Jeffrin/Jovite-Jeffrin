@@ -4,7 +4,7 @@ Passionate about transforming complex datasets into actionable insights through 
 
 🔹 **Skills:** Python, R, SQL, Tableau, Power BI, Excel, Pandas, NumPy, Matplotlib, Seaborn, Snowflake, Alteryx 
 
-🔹 **Currently Learning:** Machine Learning and Linear Algebra
+🔹 **Currently Learning:** Machine Learning Specialization 
 
 🔗 [LinkedIn](https://www.linkedin.com/in/jovitejeffrin/) | [Portfolio](https://jovite-jeffrin.github.io/My-Portfolio/)
 
